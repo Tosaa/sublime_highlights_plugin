@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Highlight Words (Custom)",
+        "command": "word_highlighter"
+    },
+    {
+        "caption": "Clear Word Highlights",
+        "command": "clear_word_highlights"
+    },
+    {
+        "caption": "Edit Highlight Words",
+        "command": "edit_word_highlights"
+    },
+    {
+    "caption": "Add Word Highlight (Dropdown)",
+    "command": "add_word_highlight"
+    }
+]
