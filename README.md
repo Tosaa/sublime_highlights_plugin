@@ -1,8 +1,3 @@
-Here’s a **clear, polished README** you can drop directly into your repo ✅  
-It’s structured like real Sublime packages and easy for users to understand.
-
-***
-
 # 📘 README.md
 
 ```md
